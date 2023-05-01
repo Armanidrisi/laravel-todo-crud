@@ -1,11 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-
 # 📝 Todo App
 
-[![Build Status](https://travis-ci.com/Armanidrisi/laravel-todo-crud.svg?branch=main)](https://travis-ci.com/Armanidrisi/laravel-todo-crud)
-![PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-blue.svg)
-![Laravel Version](https://img.shields.io/badge/Laravel-10.x-orange.svg)
+![PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-blue.svg?logo=php)
+![Laravel Version](https://img.shields.io/badge/Laravel-10.x-orange.svg?logo=laravel)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 A simple web-based Todo app built with Laravel And MySQL Database.
@@ -14,7 +12,7 @@ A simple web-based Todo app built with Laravel And MySQL Database.
 
 - Create, read, update, and delete Todo items
 - Responsive design for mobile and desktop screens
-- Automated testing with PHPUnit and Travis CI
+- Automated testing with PHPUnit
 
 ## 🚀 Installation
 
@@ -57,6 +55,7 @@ php artisan test
 ```
 
 ## 👥 Contributing
+
 Contributions are welcome! If you find any bugs or have suggestions for improving the APP, please open an issue or submit a pull request.
 
 ## 📄 License
